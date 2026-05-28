@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachececrypt",
+        "uuid": 3963050,
+        "checksum": "dmgtn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
